@@ -193,3 +193,4 @@ def main(screen):
 
 if __name__=='__main__':
     curses.wrapper(main)
+#there is a eror in 78 line  and in 100th line nocbreak returned ERR
